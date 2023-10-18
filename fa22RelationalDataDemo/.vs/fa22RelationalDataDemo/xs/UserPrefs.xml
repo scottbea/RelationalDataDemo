@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{4B3C4EA5-F7D8-4E9B-9346-DF7785B3537B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="fa22RelationalDataDemo/Program.cs">
+    <Files>
+      <File FileName="fa22RelationalDataDemo/Controllers/RegistrationDetailsController.cs" />
+      <File FileName="fa22RelationalDataDemo/Utilities/EmailMessaging.cs" />
+      <File FileName="fa22RelationalDataDemo/Controllers/AccountController.cs" />
+      <File FileName="fa22RelationalDataDemo/Controllers/RegistrationsController.cs" />
+      <File FileName="fa22RelationalDataDemo/Seeding/SeedRoles.cs" />
+      <File FileName="fa22RelationalDataDemo/Program.cs" Line="19" Column="191" />
+      <File FileName="fa22RelationalDataDemo/Views/RoleAdmin/Index.cshtml" />
+      <File FileName="fa22RelationalDataDemo/Controllers/RoleAdminController.cs" />
+      <File FileName="fa22RelationalDataDemo/Models/ViewModels/AccountViewModels.cs" Line="86" Column="22" />
+      <File FileName="fa22RelationalDataDemo/Utilities/AddUser.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fa22RelationalDataDemo" expanded="True">
+            <Node name="fa22RelationalDataDemo" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Seeding" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.fa22RelationalDataDemo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
