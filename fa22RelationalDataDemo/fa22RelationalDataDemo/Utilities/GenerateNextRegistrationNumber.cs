@@ -18,7 +18,7 @@ namespace fa22RelationalDataDemo.Utilities
 
             if (_context.Registrations.Count() == 0) //there are no registrations in the database yet
             {
-                intMaxRegistrationNumber = START_NUMBER; //registration numbers start at 101
+                intMaxRegistrationNumber = START_NUMBER; //registration numbers start at 10001
             }
             else
             {

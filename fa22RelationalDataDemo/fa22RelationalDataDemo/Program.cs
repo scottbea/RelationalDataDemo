@@ -87,7 +87,7 @@ app.Use(async (context, next) =>
 //This method maps the controllers and their actions to a patter for
 //requests that's known as the default route. This route identifies
 //the Home controller as the default controller and the Index() action
-//method as the default action. The default route also identifies a 
+//method as the de  fault action. The default route also identifies a 
 //third segment of the URL that's a parameter named id.
 app.MapControllerRoute(
     name: "default",
