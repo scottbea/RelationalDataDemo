@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fa22RelationalDataDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4b7c1b9230344cd4a996e22ef832fac1f67c1bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76a02e1a27b708f5f4f62c472f86eb4dfb9895af")]
 [assembly: System.Reflection.AssemblyProductAttribute("fa22RelationalDataDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fa22RelationalDataDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
